@@ -1,0 +1,13 @@
+digraph "geronimo-annotation_1.0_spec-1.1.1.jar" {
+    // Path: C:\Users\CHENLU~1\AppData\Local\Temp\VIA\201808200848028274\cp\geronimo-annotation_1.0_spec-1.1.1.jar
+   "javax.annotation.PostConstruct"                   -> "java.lang.Object";
+   "javax.annotation.PostConstruct"                   -> "java.lang.annotation.Annotation";
+   "javax.annotation.PostConstruct"                   -> "java.lang.annotation.Documented";
+   "javax.annotation.PostConstruct"                   -> "java.lang.annotation.Retention";
+   "javax.annotation.PostConstruct"                   -> "java.lang.annotation.Target";
+   "javax.annotation.PreDestroy"                      -> "java.lang.Object";
+   "javax.annotation.PreDestroy"                      -> "java.lang.annotation.Annotation";
+   "javax.annotation.PreDestroy"                      -> "java.lang.annotation.Documented";
+   "javax.annotation.PreDestroy"                      -> "java.lang.annotation.Retention";
+   "javax.annotation.PreDestroy"                      -> "java.lang.annotation.Target";
+}

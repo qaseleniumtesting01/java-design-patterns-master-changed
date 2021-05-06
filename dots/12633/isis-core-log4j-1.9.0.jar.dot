@@ -1,0 +1,26 @@
+digraph "isis-core-log4j-1.9.0.jar" {
+    // Path: C:\Users\CHENLU~1\AppData\Local\Temp\VIA\201808200848028274\cp\isis-core-log4j-1.9.0.jar
+   "org.apache.isis.core.runtime.logging.IsisLoggingConfigurer" -> "java.io.Closeable";
+   "org.apache.isis.core.runtime.logging.IsisLoggingConfigurer" -> "java.io.FileInputStream";
+   "org.apache.isis.core.runtime.logging.IsisLoggingConfigurer" -> "java.io.IOException";
+   "org.apache.isis.core.runtime.logging.IsisLoggingConfigurer" -> "java.io.InputStream";
+   "org.apache.isis.core.runtime.logging.IsisLoggingConfigurer" -> "java.lang.ClassLoader";
+   "org.apache.isis.core.runtime.logging.IsisLoggingConfigurer" -> "java.lang.Exception";
+   "org.apache.isis.core.runtime.logging.IsisLoggingConfigurer" -> "java.lang.Object";
+   "org.apache.isis.core.runtime.logging.IsisLoggingConfigurer" -> "java.lang.String";
+   "org.apache.isis.core.runtime.logging.IsisLoggingConfigurer" -> "java.lang.StringBuilder";
+   "org.apache.isis.core.runtime.logging.IsisLoggingConfigurer" -> "java.lang.Thread";
+   "org.apache.isis.core.runtime.logging.IsisLoggingConfigurer" -> "java.lang.Throwable";
+   "org.apache.isis.core.runtime.logging.IsisLoggingConfigurer" -> "java.util.Properties";
+   "org.apache.isis.core.runtime.logging.IsisLoggingConfigurer" -> "org.apache.isis.core.runtime.logging.LoggingConstants (isis-core-log4j-1.9.0.jar)";
+   "org.apache.isis.core.runtime.logging.IsisLoggingConfigurer" -> "org.apache.log4j.Appender (log4j-1.2.17.jar)";
+   "org.apache.isis.core.runtime.logging.IsisLoggingConfigurer" -> "org.apache.log4j.BasicConfigurator (log4j-1.2.17.jar)";
+   "org.apache.isis.core.runtime.logging.IsisLoggingConfigurer" -> "org.apache.log4j.ConsoleAppender (log4j-1.2.17.jar)";
+   "org.apache.isis.core.runtime.logging.IsisLoggingConfigurer" -> "org.apache.log4j.Layout (log4j-1.2.17.jar)";
+   "org.apache.isis.core.runtime.logging.IsisLoggingConfigurer" -> "org.apache.log4j.Level (log4j-1.2.17.jar)";
+   "org.apache.isis.core.runtime.logging.IsisLoggingConfigurer" -> "org.apache.log4j.Logger (log4j-1.2.17.jar)";
+   "org.apache.isis.core.runtime.logging.IsisLoggingConfigurer" -> "org.apache.log4j.PatternLayout (log4j-1.2.17.jar)";
+   "org.apache.isis.core.runtime.logging.IsisLoggingConfigurer" -> "org.apache.log4j.PropertyConfigurator (log4j-1.2.17.jar)";
+   "org.apache.isis.core.runtime.logging.LoggingConstants" -> "java.lang.Object";
+   "org.apache.isis.core.runtime.logging.LoggingConstants" -> "java.lang.String";
+}

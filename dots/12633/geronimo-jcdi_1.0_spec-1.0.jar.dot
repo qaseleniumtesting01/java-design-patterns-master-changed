@@ -1,0 +1,15 @@
+digraph "geronimo-jcdi_1.0_spec-1.0.jar" {
+    // Path: C:\Users\CHENLU~1\AppData\Local\Temp\VIA\201808200848028274\cp\geronimo-jcdi_1.0_spec-1.0.jar
+   "javax.enterprise.context.NormalScope"             -> "java.lang.Object";
+   "javax.enterprise.context.NormalScope"             -> "java.lang.annotation.Annotation";
+   "javax.enterprise.context.NormalScope"             -> "java.lang.annotation.Documented";
+   "javax.enterprise.context.NormalScope"             -> "java.lang.annotation.Retention";
+   "javax.enterprise.context.NormalScope"             -> "java.lang.annotation.Target";
+   "javax.enterprise.context.RequestScoped"           -> "java.lang.Object";
+   "javax.enterprise.context.RequestScoped"           -> "java.lang.annotation.Annotation";
+   "javax.enterprise.context.RequestScoped"           -> "java.lang.annotation.Documented";
+   "javax.enterprise.context.RequestScoped"           -> "java.lang.annotation.Inherited";
+   "javax.enterprise.context.RequestScoped"           -> "java.lang.annotation.Retention";
+   "javax.enterprise.context.RequestScoped"           -> "java.lang.annotation.Target";
+   "javax.enterprise.context.RequestScoped"           -> "javax.enterprise.context.NormalScope (geronimo-jcdi_1.0_spec-1.0.jar)";
+}

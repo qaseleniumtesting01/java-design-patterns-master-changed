@@ -1,0 +1,13 @@
+digraph "jsr173_api-1.0.jar" {
+    // Path: C:\Users\CHENLU~1\AppData\Local\Temp\VIA\2018082011261312108\cp\jsr173_api-1.0.jar
+   "javax.xml.XMLConstants"                           -> "java.lang.Object";
+   "javax.xml.XMLConstants"                           -> "java.lang.String";
+   "javax.xml.namespace.NamespaceContext"             -> "java.lang.Object";
+   "javax.xml.namespace.NamespaceContext"             -> "java.lang.String";
+   "javax.xml.namespace.NamespaceContext"             -> "java.util.Iterator";
+   "javax.xml.namespace.QName"                        -> "java.io.Serializable";
+   "javax.xml.namespace.QName"                        -> "java.lang.IllegalArgumentException";
+   "javax.xml.namespace.QName"                        -> "java.lang.Object";
+   "javax.xml.namespace.QName"                        -> "java.lang.String";
+   "javax.xml.namespace.QName"                        -> "java.lang.StringBuffer";
+}

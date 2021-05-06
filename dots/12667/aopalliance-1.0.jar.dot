@@ -1,0 +1,18 @@
+digraph "aopalliance-1.0.jar" {
+    // Path: C:\Users\CHENLU~1\AppData\Local\Temp\VIA\2018081511142219958\cp\aopalliance-1.0.jar
+   "org.aopalliance.aop.Advice"                       -> "java.lang.Object";
+   "org.aopalliance.intercept.Interceptor"            -> "java.lang.Object";
+   "org.aopalliance.intercept.Interceptor"            -> "org.aopalliance.aop.Advice (aopalliance-1.0.jar)";
+   "org.aopalliance.intercept.Invocation"             -> "java.lang.Object";
+   "org.aopalliance.intercept.Invocation"             -> "org.aopalliance.intercept.Joinpoint (aopalliance-1.0.jar)";
+   "org.aopalliance.intercept.Joinpoint"              -> "java.lang.Object";
+   "org.aopalliance.intercept.Joinpoint"              -> "java.lang.Throwable";
+   "org.aopalliance.intercept.Joinpoint"              -> "java.lang.reflect.AccessibleObject";
+   "org.aopalliance.intercept.MethodInterceptor"      -> "java.lang.Object";
+   "org.aopalliance.intercept.MethodInterceptor"      -> "java.lang.Throwable";
+   "org.aopalliance.intercept.MethodInterceptor"      -> "org.aopalliance.intercept.Interceptor (aopalliance-1.0.jar)";
+   "org.aopalliance.intercept.MethodInterceptor"      -> "org.aopalliance.intercept.MethodInvocation (aopalliance-1.0.jar)";
+   "org.aopalliance.intercept.MethodInvocation"       -> "java.lang.Object";
+   "org.aopalliance.intercept.MethodInvocation"       -> "java.lang.reflect.Method";
+   "org.aopalliance.intercept.MethodInvocation"       -> "org.aopalliance.intercept.Invocation (aopalliance-1.0.jar)";
+}

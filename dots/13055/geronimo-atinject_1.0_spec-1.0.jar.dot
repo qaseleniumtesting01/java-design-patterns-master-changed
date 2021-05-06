@@ -1,0 +1,30 @@
+digraph "geronimo-atinject_1.0_spec-1.0.jar" {
+    // Path: C:\Users\CHENLU~1\AppData\Local\Temp\VIA\2018082011261312108\cp\geronimo-atinject_1.0_spec-1.0.jar
+   "javax.inject.Inject"                              -> "java.lang.Object";
+   "javax.inject.Inject"                              -> "java.lang.annotation.Annotation";
+   "javax.inject.Inject"                              -> "java.lang.annotation.Documented";
+   "javax.inject.Inject"                              -> "java.lang.annotation.Retention";
+   "javax.inject.Inject"                              -> "java.lang.annotation.Target";
+   "javax.inject.Named"                               -> "java.lang.Object";
+   "javax.inject.Named"                               -> "java.lang.String";
+   "javax.inject.Named"                               -> "java.lang.annotation.Annotation";
+   "javax.inject.Named"                               -> "java.lang.annotation.Documented";
+   "javax.inject.Named"                               -> "java.lang.annotation.Retention";
+   "javax.inject.Named"                               -> "javax.inject.Qualifier (geronimo-atinject_1.0_spec-1.0.jar)";
+   "javax.inject.Provider"                            -> "java.lang.Object";
+   "javax.inject.Qualifier"                           -> "java.lang.Object";
+   "javax.inject.Qualifier"                           -> "java.lang.annotation.Annotation";
+   "javax.inject.Qualifier"                           -> "java.lang.annotation.Documented";
+   "javax.inject.Qualifier"                           -> "java.lang.annotation.Retention";
+   "javax.inject.Qualifier"                           -> "java.lang.annotation.Target";
+   "javax.inject.Scope"                               -> "java.lang.Object";
+   "javax.inject.Scope"                               -> "java.lang.annotation.Annotation";
+   "javax.inject.Scope"                               -> "java.lang.annotation.Documented";
+   "javax.inject.Scope"                               -> "java.lang.annotation.Retention";
+   "javax.inject.Scope"                               -> "java.lang.annotation.Target";
+   "javax.inject.Singleton"                           -> "java.lang.Object";
+   "javax.inject.Singleton"                           -> "java.lang.annotation.Annotation";
+   "javax.inject.Singleton"                           -> "java.lang.annotation.Documented";
+   "javax.inject.Singleton"                           -> "java.lang.annotation.Retention";
+   "javax.inject.Singleton"                           -> "javax.inject.Scope (geronimo-atinject_1.0_spec-1.0.jar)";
+}

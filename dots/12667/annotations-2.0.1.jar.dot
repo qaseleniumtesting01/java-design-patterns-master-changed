@@ -1,0 +1,45 @@
+digraph "annotations-2.0.1.jar" {
+    // Path: C:\Users\CHENLU~1\AppData\Local\Temp\VIA\2018081511142219958\cp\annotations-2.0.1.jar
+   "javax.annotation.CheckForNull"                    -> "java.lang.Object";
+   "javax.annotation.CheckForNull"                    -> "java.lang.annotation.Annotation";
+   "javax.annotation.CheckForNull"                    -> "java.lang.annotation.Documented";
+   "javax.annotation.CheckForNull"                    -> "java.lang.annotation.Retention";
+   "javax.annotation.CheckForNull"                    -> "javax.annotation.Nonnull (annotations-2.0.1.jar)";
+   "javax.annotation.CheckReturnValue"                -> "java.lang.Object";
+   "javax.annotation.CheckReturnValue"                -> "java.lang.annotation.Annotation";
+   "javax.annotation.CheckReturnValue"                -> "java.lang.annotation.Documented";
+   "javax.annotation.CheckReturnValue"                -> "java.lang.annotation.Retention";
+   "javax.annotation.CheckReturnValue"                -> "java.lang.annotation.Target";
+   "javax.annotation.CheckReturnValue"                -> "javax.annotation.meta.When (annotations-2.0.1.jar)";
+   "javax.annotation.Nonnull"                         -> "java.lang.Object";
+   "javax.annotation.Nonnull"                         -> "java.lang.annotation.Annotation";
+   "javax.annotation.Nonnull"                         -> "java.lang.annotation.Documented";
+   "javax.annotation.Nonnull"                         -> "java.lang.annotation.Retention";
+   "javax.annotation.Nonnull"                         -> "javax.annotation.Nonnull$Checker (annotations-2.0.1.jar)";
+   "javax.annotation.Nonnull"                         -> "javax.annotation.meta.TypeQualifier (annotations-2.0.1.jar)";
+   "javax.annotation.Nonnull"                         -> "javax.annotation.meta.When (annotations-2.0.1.jar)";
+   "javax.annotation.Nonnull$Checker"                 -> "java.lang.Object";
+   "javax.annotation.Nonnull$Checker"                 -> "java.lang.annotation.Annotation";
+   "javax.annotation.Nonnull$Checker"                 -> "javax.annotation.Nonnull (annotations-2.0.1.jar)";
+   "javax.annotation.Nonnull$Checker"                 -> "javax.annotation.meta.TypeQualifierValidator (annotations-2.0.1.jar)";
+   "javax.annotation.Nonnull$Checker"                 -> "javax.annotation.meta.When (annotations-2.0.1.jar)";
+   "javax.annotation.Nullable"                        -> "java.lang.Object";
+   "javax.annotation.Nullable"                        -> "java.lang.annotation.Annotation";
+   "javax.annotation.Nullable"                        -> "java.lang.annotation.Documented";
+   "javax.annotation.Nullable"                        -> "java.lang.annotation.Retention";
+   "javax.annotation.Nullable"                        -> "javax.annotation.Nonnull (annotations-2.0.1.jar)";
+   "javax.annotation.meta.TypeQualifier"              -> "java.lang.Class";
+   "javax.annotation.meta.TypeQualifier"              -> "java.lang.Object";
+   "javax.annotation.meta.TypeQualifier"              -> "java.lang.annotation.Annotation";
+   "javax.annotation.meta.TypeQualifier"              -> "java.lang.annotation.Documented";
+   "javax.annotation.meta.TypeQualifier"              -> "java.lang.annotation.Retention";
+   "javax.annotation.meta.TypeQualifier"              -> "java.lang.annotation.Target";
+   "javax.annotation.meta.TypeQualifierValidator"     -> "java.lang.Object";
+   "javax.annotation.meta.TypeQualifierValidator"     -> "java.lang.annotation.Annotation";
+   "javax.annotation.meta.TypeQualifierValidator"     -> "javax.annotation.Nonnull (annotations-2.0.1.jar)";
+   "javax.annotation.meta.TypeQualifierValidator"     -> "javax.annotation.meta.When (annotations-2.0.1.jar)";
+   "javax.annotation.meta.When"                       -> "java.lang.Class";
+   "javax.annotation.meta.When"                       -> "java.lang.Enum";
+   "javax.annotation.meta.When"                       -> "java.lang.Object";
+   "javax.annotation.meta.When"                       -> "java.lang.String";
+}
